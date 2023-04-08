@@ -11,7 +11,7 @@
 
 ### 唯一领导人
 
-![image-20230408190725310](D:\github\RUR-info\README.assets\o-n-l-y.png "唯！一！")
+![唯！一！](D:\github\RUR-info\README.assets\o-n-l-y.png "唯！一！")
 
 
 
