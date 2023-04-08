@@ -11,7 +11,7 @@
 
 ### 唯一领导人
 
-![唯！一！](D:\github\RUR-info\README.assets\o-n-l-y.png "唯！一！")
+![唯！一！](https://raw.githubusercontent.com/Lala-0x3f/RUR-info/main/README.assets/o-n-l-y.png "唯！一！")
 
 
 
@@ -19,7 +19,7 @@
 
 👇本尊👇
 
-![本尊](D:\github\RUR-info\README.assets\乐.png)
+![本尊](https://github.com/Lala-0x3f/RUR-info/blob/main/README.assets/%E4%B9%90.png?raw=true)
 
 ### 其他领导人
 
