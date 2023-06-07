@@ -1,5 +1,5 @@
-##### RUR-info
-# 瑞克共和国联盟 / 信息公开
+##### FR-info
+# 瑞克联邦 / 信息公开
 
 > 本国为在公共 [Minecraft](https://www.minecraft.net) 服务器 [SenCraft]([SenCraft！](https://www.sencraft.top/)) 中的虚拟国家，与现实没有关联
 
