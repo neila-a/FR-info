@@ -1,4 +1,4 @@
-> 本国为在公共 [Minecraft](https://www.minecraft.net) 服务器 [SenCraft]([SenCraft！](https://www.sencraft.top/)) 中的虚拟国家，与现实没有关联
+> 本国为在公共 [Minecraft](https://www.minecraft.net) 服务器 [SenCraft]((https://www.sencraft.top)) 中的虚拟国家，与现实没有关联
 
 # 领导人
 
@@ -6,7 +6,7 @@
 
 ![唯！一！](https://raw.githubusercontent.com/Lala-0x3f/RUR-info/main/README.assets/o-n-l-y.png "唯！一！")
 
-#### 总统：[ricklin]([瑞克先森的个人空间](https://space.bilibili.com/1322178479))
+#### 总统：[ricklin](https://space.bilibili.com/1322178479)
 
 👇本尊👇
 
