@@ -2,19 +2,17 @@
 
 # 领导人
 
-### 唯一领导人
+#### 总统：Dyslic
 
-![唯！一！](https://raw.githubusercontent.com/Lala-0x3f/RUR-info/main/README.assets/o-n-l-y.png "唯！一！")
+ 有一些特别的 tags：
 
-#### 总统：[ricklin](https://space.bilibili.com/1322178479)
+```
+furry, loli, tears, maid, panties, blush, tentacle, cat ears, legwear, cat tail
+```
 
-👇本尊👇
+#### 联邦国务院：[ricklin](https://space.bilibili.com/1322178479)
 
-![本尊](https://github.com/Lala-0x3f/RUR-info/blob/main/README.assets/%E4%B9%90.png?raw=true)
-
-### 其他领导人
-
-(不重要🐷)
+#### 总理：ifctmzzz
 
 ---
 
