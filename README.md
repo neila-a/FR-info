@@ -1,6 +1,6 @@
 > 本国为在公共 [Minecraft](https://www.minecraft.net) 服务器 [SenCraft]((https://www.sencraft.top)) 中的虚拟国家，与现实没有关联
 
-# 领导人
+## 领导人
 
 #### 总统：Dyslic
 
