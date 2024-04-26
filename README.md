@@ -1,3 +1,5 @@
+重要：由于瑞克联邦解体为萨珊王国、普拉克米斯特诺夫同盟，该文档已废弃。但是为了参考之用，它不会被删除。
+
 > 本国为在公共 [Minecraft](https://www.minecraft.net) 服务器 [SenCraft]((https://www.sencraft.top)) 中的虚拟国家，与现实没有关联
 
 ## 领导人
